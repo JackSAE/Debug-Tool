@@ -1,7 +1,7 @@
 # Debug-Tool
 
 
-> **Warning this is a Work in progress and is still in very early development stages**
+> **Warning this is a Work in progress and is still in development**
 
 
 ## Introduction
