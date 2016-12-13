@@ -16,9 +16,9 @@ To use this script all you need to do is add it onto either a empty gameobject t
 To bring up the debug menu press the "~" key located at the top left of the keyboard.
 
 ##Future Improvements
-~~* --> Track FPS~~
-~~* --> Track Objects - object Transform - Object Name - Objects variables ~~
-~~* --> Type of Object~~
+* ~~--> Track FPS~~
+* ~~--> Track Objects - object Transform - Object Name - Objects variables ~~
+* ~~--> Type of Object~~
 * --> Spawning GameObjects 
 * --> Changing Variables 
 * --> GUI Interface - easily brought up with "~" key
