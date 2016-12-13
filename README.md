@@ -16,16 +16,18 @@ To use this script all you need to do is add it onto either a empty gameobject t
 To bring up the debug menu press the "~" key located at the top left of the keyboard.
 
 ##Future Improvements
-* --> Track FPS
-* --> Track Objects - object Transform - Object Name - Objects variables 
-* --> Type of Object
+~~* --> Track FPS~~
+~~* --> Track Objects - object Transform - Object Name - Objects variables ~~
+~~* --> Type of Object~~
 * --> Spawning GameObjects 
 * --> Changing Variables 
 * --> GUI Interface - easily brought up with "~" key
 * --> Memory Usage 
 
 ##Change Log
-
+13/12/2016 - Added Ability to move gameObjects transforms.
+13/12/2016 - Added Ability to see GameObjects Scripts and Variables
+13/12/2016 - Added Ability to see the Type of Object
 
 ## License
 This software is released under the [MIT license](http://opensource.org/licenses/MIT). You can find a copy of the license in the LICENSE file included in the *Debug-Tool* source distribution.
