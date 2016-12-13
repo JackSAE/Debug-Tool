@@ -17,7 +17,7 @@ To bring up the debug menu press the "~" key located at the top left of the keyb
 
 ##Future Improvements
 * ~~--> Track FPS~~
-* ~~--> Track Objects - object Transform - Object Name - Objects variables ~~
+* ~~--> Track Objects - object Transform - Object Name - Objects variables~~
 * ~~--> Type of Object~~
 * --> Spawning GameObjects 
 * --> Changing Variables 
